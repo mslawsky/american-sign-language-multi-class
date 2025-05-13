@@ -236,8 +236,11 @@ The model achieves impressive performance on the Sign Language MNIST dataset:
 - **Fast Convergence**: Model achieves optimal performance within 15 epochs
 - **Efficient Training**: Completes training in approximately 15 minutes on GPU
 
-**Confusion Matrix Analysis:**
+**Training and Validation Accuracy:**
 The model shows particularly strong performance on most letters, with occasional confusion between visually similar gestures (e.g., letters with similar finger positions).
+
+![Training Accuracy Results](training-accuracy-results.png)
+
 
 ---
 
